@@ -26,3 +26,8 @@ Resources I use to learn about sketching, drawing, etc.
 ## Groups
 
 
+## Metrials / Tools (Stuff I use)
+ - Micron pens
+ - Copic markers
+ - Lamy fountain pen
+
