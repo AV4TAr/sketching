@@ -9,6 +9,7 @@ Resources I use to learn about sketching, drawing, etc.
 ## Books
 
 - [Space Drawing: Perspective](https://superanius.com/products/dong-ho-kim) by [Dong Ho Kim](https://www.instagram.com/donghokim_art)
+- [Dare to Sketch - A guide to Drawing on the Go](https://www.amazon.com/Dare-Sketch-Guide-Drawing-Go/dp/0399579559/ref=sr_1_1?crid=1NJBBP7T82VFK) by [Felix Scheinberger](https://www.instagram.com/felixscheinberger)
 
 ## Videos
 
