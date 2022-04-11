@@ -30,4 +30,5 @@ Resources I use to learn about sketching, drawing, etc.
  - Micron pens
  - Copic markers
  - Lamy fountain pen
+ - Midori Traveler's Notebook
 
